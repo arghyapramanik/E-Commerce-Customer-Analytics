@@ -67,22 +67,7 @@ The values below are read from the current dashboard screenshot and should be tr
 - Average CAC across the displayed age cohorts is relatively close, ranging from approximately $41.69 to $42.35.
 - The regional CAC visual shows South with the largest displayed CAC contribution (approximately $337.71K).
 
-See [`KPI_Dictionary.md`](KPI_Dictionary.md) for KPI definitions and [`Business_Intelligence.md`](Business_Intelligence.md) for interpretation and follow-up questions.
 
-## Repository Structure
-
-```text
-power-bi-business-analytics/
-├── README.md
-├── BigMart-Sales-Analytics/       # Replace with your actual project folder name if different
-│   ├── Customer_Analytics.pbix    # Add the Power BI report file
-│   └── Screenshots/
-│       └── ecommerce_customer_analytics.png
-├── KPI_Dictionary.md
-└── Business_Intelligence.md
-```
-
-Update the file and folder names above to match the actual repository before publishing.
 
 ## How to Explore
 
@@ -101,14 +86,7 @@ Update the file and folder names above to match the actual repository before pub
 - Geographic maps and customer rankings should be interpreted in light of data completeness, postal-code quality, and the selected filters.
 - Values are rounded in visuals; small differences may occur between chart labels and underlying calculations.
 
-## Future Improvements
 
-- Add a clear reporting-period or data-refresh indicator.
-- Document the source, row count, data types, and Power Query transformation steps.
-- Add a data-quality page covering missing values, duplicate customer IDs, invalid ages, and CAC outliers.
-- Add period-over-period comparisons if a reliable date field is available.
-- Add a metric definition for CAC that states exactly which costs are included and the time period to which they relate.
-- Validate customer counts using distinct customer IDs and reconcile total CAC to the underlying rows.
 
 ## Author
 
