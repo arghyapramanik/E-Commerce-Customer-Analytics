@@ -9,7 +9,6 @@ An interactive Power BI dashboard for exploring customer distribution, acquisiti
 
 ## Dashboard Preview
 
-![E-Commerce Customer Analytics Dashboard]([Screenshots/ecommerce_customer_analytics.png](https://github.com/arghyapramanik/E-Commerce-Customer-Analytics/blob/main/Screenshots/overview.png))
 
 The dashboard brings together customer-volume and customer-acquisition-cost (CAC) views in one report. It is designed to help a business user understand where customers are concentrated, how customer segments compare, and how CAC varies across customer groups and geographies.
 
